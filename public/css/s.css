@@ -1,0 +1,54 @@
+html {
+  background-color: grey;
+}
+.known {
+  color: aqua;
+}
+.main-content {
+  flex-grow: 1;
+}
+
+footer {
+  color: #888888;
+  border-top: 1px solid #eeeeee;
+  margin-top: 16px;
+  padding: 16px 0;
+}
+
+header {
+  margin-top: 16px;
+  margin-bottom: 48px;
+}
+
+h1 {
+  font-size: 64px;
+  margin-bottom: 16px;
+}
+
+header a {
+  color: #888888;
+  margin-right: 16px;
+  text-decoration: none;
+}
+.container {
+  margin: 150 px auto;
+  width: 50%;
+  padding: 8px;
+}
+.portrait {
+  width: 200px;
+  height: auto;
+  margin: 0 auto;
+  border-left-color: aqua;
+  float: left;
+  padding: 0 20px 40px;
+  max-width: 200vh;
+}
+.text {
+  text-align: justify;
+  margin: 25px auto;
+  font-size: 120%;
+  padding: 20px 20px 20px 20px;
+}
+body {
+}
